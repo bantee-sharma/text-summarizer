@@ -7,8 +7,8 @@ load_dotenv()
 
 model = ChatGoogleGenerativeAI(model = "gemini-2.0-flash")
 
-st.header("summarization tool")
-user_input = st.text_area("Enter your text to summarize:")
+st.header("🤖 AI Summarization Tool")
+user_input = st.text_area("Enter text to summarize:")
 temp = PromptTemplate(
     template="Summarize the given text : {text}",
 
