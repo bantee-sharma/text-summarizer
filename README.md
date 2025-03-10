@@ -8,7 +8,7 @@ It allows users to input long text and generate concise summaries using advanced
 ✅ Extractive & abstractive summarization
 
 
-✅ Uses Google Gemini-1.5 Flash for high-quality summaries
+✅ Uses Google Gemini-2.0 Flash for high-quality summaries
 
 ✅ Built with Streamlit for an interactive UI
 
