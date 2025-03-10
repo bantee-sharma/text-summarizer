@@ -17,10 +17,17 @@ It allows users to input long text and generate concise summaries using advanced
 ✅ Error handling for empty input and model failures
 
 **🔧 Technologies Used:**
+
 **Python**
+
 **Streamlit (for UI)**
+
 **LangChain (for NLP pipeline)**
+
 **Google Generative AI (Gemini)**
+
 **dotenv (for managing API keys)**
+
+
 
 
